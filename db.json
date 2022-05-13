@@ -6,7 +6,7 @@
       "name": "Salary sheet",
       "capacity": 10,
       "status": true,
-      "image": "https://avatars.dicebear.com/api/micah/1.svg",
+      "image": "https://avatars.dicebear.com/api/micah/1.svg"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "name": "Employee List",
       "capacity": 15,
       "status": false,
-      "image": "https://avatars.dicebear.com/api/micah/2.svg",
+      "image": "https://avatars.dicebear.com/api/micah/2.svg"
     },
     {
       "id": 3,
@@ -22,8 +22,7 @@
       "name": "Expenditure",
       "capacity": 5,
       "status": true,
-      "image": "https://avatars.dicebear.com/api/micah/3.svg",
+      "image": "https://avatars.dicebear.com/api/micah/3.svg"
     }
-   
   ]
 }
