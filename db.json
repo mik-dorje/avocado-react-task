@@ -1,0 +1,29 @@
+{
+  "tables": [
+    {
+      "id": 1,
+      "layout": "Layout1",
+      "name": "Salary sheet",
+      "capacity": 10,
+      "status": true,
+      "image": "https://avatars.dicebear.com/api/micah/1.svg",
+    },
+    {
+      "id": 2,
+      "layout": "Layout2",
+      "name": "Employee List",
+      "capacity": 15,
+      "status": false,
+      "image": "https://avatars.dicebear.com/api/micah/2.svg",
+    },
+    {
+      "id": 3,
+      "layout": "Layout3",
+      "name": "Expenditure",
+      "capacity": 5,
+      "status": true,
+      "image": "https://avatars.dicebear.com/api/micah/3.svg",
+    },
+   
+  ]
+}
