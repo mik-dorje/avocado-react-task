@@ -38,10 +38,8 @@ function Form() {
 
   const handleCreate = async (event) => {
     event.preventDefault();
-    if (formData.name != "" && formData.capacity != "") {
-      
-      console.log(formData.name, formData.capacity)
-      setLoading(true);
+
+    setLoading(true);
     // console.log(formData);
     const newData = {
       id: data.length + 1,
@@ -73,12 +71,6 @@ function Form() {
     setData(newDatas);
     setFormData(emptyData);
     setLoading(false);
-
-
-
-    }
-
-    
   };
 
   return (
