@@ -1,0 +1,41 @@
+.table-btns {
+  margin: 5px;
+  border-style: none;
+  border-radius: 3px;
+  color: white;
+  height: 30px;
+  width: 65px;
+}
+
+.table-btns:hover {
+  box-shadow: 0 0 10px 1px rgb(39, 35, 35);
+}
+
+.update-btn {
+  background-color: blue;
+  padding: 3px;
+}
+
+.canc-btn {
+  background-color: blueviolet;
+  padding: 3px;
+}
+
+td {
+  border: 1px solid rgb(14, 2, 2);
+  text-align: left;
+  padding: 8px;
+  width: 6.25rem;
+}
+select,
+input {
+  width: 100px;
+  height: 1.8em;
+}
+
+@media only screen and (max-width: 768px) {
+  select,
+  input {
+    width: 50px;
+  }
+}
